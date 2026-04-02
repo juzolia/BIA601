@@ -1,2 +1,4 @@
 # BIA601
-ecommerce-recommender
+# 🛒 E-commerce Product Recommender System
+
+مشروع نظام توصية منتجات للتجارة الإلكترونية باستخدام خوارزمية جينية ضبابية.
